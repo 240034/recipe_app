@@ -22,7 +22,7 @@ class RecipeDetailPage extends StatelessWidget {
           const Padding(
             padding: EdgeInsets.all(8.0),
             child: Text(
-              'Ингредиенты',
+              'Ingredients',
               style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
             ),
           ),
